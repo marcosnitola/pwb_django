@@ -1,6 +1,8 @@
 # pwb_django
-virtualenv
-
+## virtualenv
+virtualenv [nombre entorno] // crea nuevo entorno
+source [nombre entorno]/bin/activate // Activa el entorno
+deactivate // Desactiva el entorno desde la terminal
 
 
 
